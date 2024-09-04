@@ -1,4 +1,4 @@
-# Object_Detection
+# Object Detection Project Using Python
 
 # Project Overview:
 
